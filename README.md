@@ -1,7 +1,7 @@
 # Uber Eats Data Analysis Project
 
 ## Overview
-This project analyzes Uber Eats data using Python. The dataset (`uber_eats_data.csv`) includes [brief description of data].
+This project analyzes Uber Eats data using Python. The dataset (`uber_eats_data.csv`).
 
 ## Project Structure
 - **`Dataset/`**: Contains the dataset (`uber_eats_dataset.csv`).
